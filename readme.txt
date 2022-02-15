@@ -16,4 +16,8 @@ We want to use OOP to write a script to detect motifs, classify and visualize th
 Steps involved in an OOP script:   
 
 TO BE COMPLETED SOON ............................
-NO CHANGES MADE YET  ............................
+NO CHANGES MADE YET  ...........................
+
+
+Part 3: 
+Change #1 .
