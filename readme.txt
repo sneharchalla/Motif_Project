@@ -6,4 +6,7 @@ A motif can be the exact same sequence or can be degenerate and allow for ambigu
 Finding a Motif: 
 
 A motif can be found by a technique called string matching. 
-We want to use OOP to write a script to detect motifs, classify and visualize them.  
+We want to use OOP to write a script to detect motifs, classify and visualize them.
+
+
+Steps involved in an OOP script:   
