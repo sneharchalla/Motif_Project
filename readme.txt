@@ -7,3 +7,4 @@ Finding a Motif:
 
 A motif can be found by a technique called string matching. 
 We want to use OOP to write a script to detect motifs, classify and visualize them.  
+content to append
